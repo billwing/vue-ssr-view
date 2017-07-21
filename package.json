@@ -1,0 +1,11 @@
+{
+  "name": "vue-ssr-view",
+  "version": "2.0.0",
+  "license": "MIT",
+  "description": "A Vue SSR view template.",
+  "scripts": {
+  },
+  "devDependencies": {
+    "vue-cli": "^2.8.1"
+  }
+}
