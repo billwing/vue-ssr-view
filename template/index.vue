@@ -1,14 +1,6 @@
 <template>
-  <div class="{{ name }}">
-    <header title=""></header>
+  <div class="{{ name }}-view">
 
-    <div class="container">
-      <div>
-
-      </div>
-
-      <footer></footer>
-    </div>
   </div>
 </template>
 
